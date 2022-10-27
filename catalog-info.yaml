@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rome
+  title: Rome
+  description: Rome synchronizes in real-time with inputs, never steals focus, and its CSS is entirely customizable.
+  annotations:
+    github.com/project-slug: Novetta/rome
+spec:
+  type: other
+  lifecycle: unknown
+  owner: NMA
